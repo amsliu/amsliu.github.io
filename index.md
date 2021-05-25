@@ -2,14 +2,14 @@
 
 ---
 
-### Category Name 1 
+### UX Design 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Baruch College Mobile App - UX Design Challenge](https://amson-liu.com/portfolio.html)
+<img src="images/ux1.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Mark43 - UX Design Challenge](https://amson-liu.com/portfolio.html)
+<img src="images/ux2.jpg?raw=true"/>
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
