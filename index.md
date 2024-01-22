@@ -2,9 +2,7 @@
 
 ---
 
-### Technical Writing
-
-<a href="[https://www.figma.com/proto/DVXrEUDhLrxKgvPdE0a4rjhR/Baruch-College-Mobile-App?node-id=17%3A18%26scaling=scale-down](https://docs.google.com/document/d/1OkrdpzOHYtiKhhh9b7YlWwoWrG9OVYh_/edit?usp=sharing&ouid=106364078261999796800&rtpof=true&sd=true)" target="_blank">Technical Writing Samples from Microsoft</a>
+<a href="https://docs.google.com/document/d/1OkrdpzOHYtiKhhh9b7YlWwoWrG9OVYh_/edit?usp=sharing&ouid=106364078261999796800&rtpof=true&sd=true" target="_blank">Technical Writing Samples from Microsoft</a>
 <img src="images/fire.jpg?raw=true"/>
 
 ---
