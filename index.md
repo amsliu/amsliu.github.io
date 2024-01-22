@@ -10,10 +10,10 @@
 
 About Me:
 
-• 2+ years of technical writing experience as a Content Developer for Microsoft Entra (Azure AD) products such as PIM and Access Reviews
-• 1+ years of support engineering experience with the Azure Enterprise (EA) subscriptions and billing support team
-• Microsoft Certified in Azure Fundamentals (AZ-900)
-• Recent working abroad experience in Japan
+• 2+ years of technical writing experience as a Content Developer for Microsoft Entra (Azure AD) products such as PIM and Access Reviews<br>
+• 1+ years of support engineering experience with the Azure Enterprise (EA) subscriptions and billing support team<br>
+• Microsoft Certified in Azure Fundamentals (AZ-900)<br>
+• Recent working abroad experience in Japan<br>
 
 ⭐ Why You Should Consider Me:
 
