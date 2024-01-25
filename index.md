@@ -18,7 +18,7 @@ About Me:
 
 ⭐ Why You Should Consider Me:
 
-At Microsoft, I've fostered a growth mindset with the humbleness to learn from senior colleagues and the willingness to help others. I have a strong desire to grow as a technical writer and I'm very passionate about the intersection of technology, language, and education.
+At Microsoft, I've fostered a growth mindset with the humbleness to learn from senior colleagues and the willingness to help others. I have a strong desire to grow my career and I'm very passionate about the intersection of technology, language, and education.
 
 🚀 What I'm Looking For:
 
