@@ -4,7 +4,7 @@
 
 <img src="images/fire.jpg?raw=true"/>
 <a href="https://drive.google.com/file/d/1-mU0Jt-sIJl-OPf5SFblLiVcN-O2_Qlz/view?usp=sharing" target="_blank">Amson Liu's Resume</a>
-<br>
+<br><br>
 
 🔍 Seeking: Technical Writer/Content Developer/Content Editor/Content Localization roles
 
