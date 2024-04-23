@@ -21,7 +21,7 @@ At Microsoft, I've fostered a growth mindset with the humbleness to learn from s
 
 🚀 What I'm Looking For:
 
-I'm seeking a role (in the US or remote) that will allow me to learn more about new technologies and to grow as a technical writer, localization strategist, and/or editor. If you are a hiring manager or recruiter, I would love to work with you!
+I'm seeking a role (in the US or remote) that will allow me to learn more about new technologies and to grow as a technical writer, localization strategist, and/or instructional designer. If you are a hiring manager or recruiter, I would love to work with you!
 
 
 ---
