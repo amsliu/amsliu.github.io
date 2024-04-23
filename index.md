@@ -6,7 +6,7 @@
 <a href="https://drive.google.com/file/d/1-mU0Jt-sIJl-OPf5SFblLiVcN-O2_Qlz/view?usp=sharing" target="_blank">Amson Liu's Resume</a>
 <br>
 
-🔍 Seeking: Technical Writer/Content Developer/Content Editor/Content Localization roles
+🔍 Seeking: Technical Writer/Content Developer/Instructional Design/Localization PM roles
 
 About Me:
 
