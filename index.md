@@ -3,7 +3,7 @@
 ---
 
 <img src="images/fire.jpg?raw=true"/>
-<a href="https://drive.google.com/file/d/1RbePcb7QEkav9yRkmZhmHIy5vvvcPNCo/view?usp=sharing" target="_blank">Amson Liu's Resume</a>
+<a href="https://drive.google.com/file/d/12OAUsCyxrSY9L98SOq_w04ryUwIrF02Z/view?usp=sharing" target="_blank">Amson Liu's Resume</a>
 <br>
 
 🔍 Seeking: Technical Writer/ Content Developer/ Content Localization/ Instructional Design roles
