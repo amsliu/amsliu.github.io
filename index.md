@@ -17,7 +17,7 @@ About Me:
 
 ⭐ Why You Should Consider Me:
 
-At Microsoft, I've fostered a growth mindset with the humbleness to learn from senior colleagues and the willingness to help others. In addition to a solid background in supporting Azure cloud services, I have a strong desire to grow my career and I'm very passionate about the intersection of technology, education, and language.
+At Microsoft, I've fostered a growth mindset with the humbleness to learn from senior colleagues and the willingness to help others. In addition to having a solid background in supporting Azure cloud services, I have a strong desire to grow my career and I'm very passionate about the intersection of technology, education, and language.
 
 🚀 What I'm Looking For:
 
