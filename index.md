@@ -6,7 +6,7 @@
 <a href="https://drive.google.com/file/d/12OAUsCyxrSY9L98SOq_w04ryUwIrF02Z/view?usp=sharing" target="_blank">Amson Liu's Resume</a>
 <br>
 
-🔍 Seeking: Technical Writer/ Content Developer/ Content Localization/ Instructional Design roles
+🔍 Seeking: Technical Writing/ Cloud Computing/ Content Development/ Instructional Design 
 
 About Me:
 
@@ -17,11 +17,11 @@ About Me:
 
 ⭐ Why You Should Consider Me:
 
-At Microsoft, I've fostered a growth mindset with the humbleness to learn from senior colleagues and the willingness to help others. I have a strong desire to grow my career and I'm very passionate about the intersection of technology, language, and education.
+At Microsoft, I've fostered a growth mindset with the humbleness to learn from senior colleagues and the willingness to help others. In addition to a solid background in supporting Azure cloud services, I have a strong desire to grow my career and I'm very passionate about the intersection of technology, education, and language.
 
 🚀 What I'm Looking For:
 
-I'm seeking a role (in the US or remote) that will allow me to learn more about new technologies and to grow as a technical writer, localization strategist, and/or instructional designer. If you are a hiring manager or recruiter, I would love to work with you!
+I'm seeking a role (in the US or remote) that will allow me to learn more about new technologies and to grow as a technical writer, instructional designer, content developer and/or support engineer. If you are a hiring manager or recruiter, I would love to work with you!
 
 
 ---
