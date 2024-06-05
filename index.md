@@ -3,7 +3,7 @@
 ---
 
 <img src="images/fire.jpg?raw=true"/>
-<a href="https://drive.google.com/file/d/1wiRYGnilzBts_Eg7VBVVWAlo7gT9GiWi/view?usp=sharing" target="_blank">Amson Liu's Resume</a>
+<a href="https://drive.google.com/file/d/1DFT8VziIPKvF5yuoofWJ1cOsYntIIHyg/view?usp=sharing" target="_blank">Amson Liu's Resume</a>
 <br>
 
 🔍 Seeking: Technical Writing/ Cloud Computing/ Content Development/ Instructional Design 
