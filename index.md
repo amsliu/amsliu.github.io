@@ -6,11 +6,11 @@
 <a href="https://drive.google.com/file/d/15quMCIBtmGGdItx4joD2IG5SlSXQ5ojA/view?usp=sharing" target="_blank">Amson Liu's Resume</a>
 <br>
 
-🔍 Seeking: Technical Writing/ Cloud Computing/ Content Development/ Instructional Design 
+🔍 Seeking: Technical Writer/ Technical Editor/ Content Developer/ Content Designer 
 
 About Me:
 
-• Currently working as a technical writer at Aquent for Microsoft (contract) on a variety of support and end user documentation.<br>
+• Most recently working as a technical writer at Aquent for Microsoft (contract) on a variety of support and end user documentation.<br>
 • 2+ years of technical writing experience as a Content Developer for Microsoft Entra (Azure AD) products such as PIM and Access Reviews.<br>
 • 1+ years of support engineering experience with the Azure Enterprise (EA) subscriptions and billing support team.<br>
 • Microsoft Certified in Azure Fundamentals (AZ-900).<br>
@@ -22,7 +22,7 @@ At Microsoft, I've fostered a growth mindset with the humbleness to learn from s
 
 🚀 What I'm Looking For:
 
-I'm seeking a role (in the US or remote) that will allow me to learn more about new technologies and to grow as a technical writer, content developer, and/or instructional designer. If you are a hiring manager or recruiter, I would love to work with you!
+I'm seeking a role (in the US or remote) that will allow me to learn more about new technologies and to grow as a technical writer, technical editor, content developer, and/or content designer. If you are a hiring manager or recruiter, I would love to work with you!
 
 
 ---
