@@ -22,7 +22,7 @@
             target="_blank"
             rel="noopener"
           >
-            {{ site.title }}
+            {{ site.title | default: site.github.repository_name }}
           </a>
         </h1>
         
