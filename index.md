@@ -7,7 +7,7 @@ description: "Welcome to Amson Liu's portfolio. Amson is a multi-disciplinary pr
 
 ---
 
-<img src="images/fire.jpg?raw=true"/>
+<img src="images/fire.jpg?raw=true" alt="Image of Amson Liu's LinkedIn background picture">
 <a href="https://drive.google.com/file/d/15quMCIBtmGGdItx4joD2IG5SlSXQ5ojA/view?usp=sharing" target="_blank">Amson Liu's Resume</a>
 <br>
 
