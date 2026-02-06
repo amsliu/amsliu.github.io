@@ -1,7 +1,5 @@
-title: <a href="https://www.linkedin.com/in/amsonliu/" target="_blank">Amson Liu</a>  # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  Amson is a multi-disciplinary professional with a passion for technology, education, and language. His career interests include technical writing, cloud security, AI/ML, content development, and instructional design.
-  <br>
-theme: jekyll-theme-minimal
-google_analytics: G-TQXE0V26CX # your Google Analytics tracking ID here
+title: Amson Liu – Technical Writer
+description: Amson is a multi-disciplinary professional with a passion for technology, education, and language. His career interests include technical writing, cloud security, AI/ML, content development, and instructional design.
+theme: jekyll-theme-orderedlist
+show_downloads: false
+google_analytics: G-TQXE0V26CX
