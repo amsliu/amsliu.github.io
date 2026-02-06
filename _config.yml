@@ -1,4 +1,6 @@
 title: "Amson Liu"
+jekyll_seo_tag:
+  title_template: "%s" 
 logo: "/images/profile_pic.png"
 logo_alt: "Amson Liu's headshot."
 description: >
