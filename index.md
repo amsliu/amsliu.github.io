@@ -1,6 +1,8 @@
 ---
-title: "Amson Liu's Portfolio"
-description: "Welcome to Amson Liu's portfolio. Amson is a multi-disciplinary professional with a passion for technology, education, and language. His career interests include technical writing, cloud security, AI/ML, content development, and instructional design."
+title: "Portfolio"
+seo:
+  title: "Amson Liu’s Portfolio"
+description: "Amson is a multi-disciplinary professional with a passion for technology, education, and language. His career interests include technical writing, cloud security, AI/ML, content development, and instructional design."
 ---
 
 ## Portfolio
