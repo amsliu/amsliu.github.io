@@ -25,12 +25,11 @@
             {{ site.title | default: site.github.repository_name }}
           </a>
         </h1>
-
         
         {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
+        <img src="{{ site.logo | relative_url }}" alt="Amson Liu headshot" />
         {% endif %}
-
+        
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
         {% if site.github.is_project_page %}
